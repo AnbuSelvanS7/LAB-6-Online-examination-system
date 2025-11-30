@@ -1,8 +1,8 @@
 # LAB-6-Online-examination-system
 
-NAME : JAGADEESH J
+NAME : Anbu Selvan S
 
-REGISTER NUMBER : 212223110015
+REGISTER NUMBER : 212223110003
 
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
